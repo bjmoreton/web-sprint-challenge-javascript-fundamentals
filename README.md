@@ -35,7 +35,7 @@ A higher order function is a function that takes another function as arguements 
 Closure gives a function the ability to reach out from an inner function to utilize information from an outer function.
 
 4. Describe the four rules of the 'this' keyword.
-Default binding, Implicit binding, Explicit binding, New Binding
+Window binding, Implicit binding, Explicit binding, New Binding
 
 5. Why do we need super() in an extended class?
 so that the child construtor attributes/functions are used.
